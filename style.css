@@ -5,6 +5,8 @@
 }
 
 body {
+  width: 100%;
+  height: 100℅;
   font-family: 'montserrat', sans-serif;
   background-image: url('bg.jpg');
   background-size: cover;
